@@ -1,7 +1,7 @@
-# React Timer
-React Timer is a basic timer built in a class component and a timer using hooks in a functional component. The commented out text explains step by step what is happening in each timer lifecyle and how to avoid errors in your code and in the console. 
+# React Timers
+React Timers is a basic timer built in a class component and basic timer using hooks in a functional component. The commented out text explains step by step what is happening in each timer's lifecyle and how to avoid errors in your code and console. 
 
-I wrote a blog for each component listed where I encouraged the reader to copy and paste the timers into a react project to play around with the code and see how it works in the console. 
+I wrote a blog for each timer where I encouraged the reader to copy and paste the timers into a react project to play around with the code and see how it works in the console. 
 
 ### Class component timer blog
 https://codeski.github.io/react_-_creating_a_timer
