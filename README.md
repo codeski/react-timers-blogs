@@ -9,6 +9,9 @@ https://codeski.github.io/react_-_creating_a_timer
 ### Hooks Timer blog
 https://codeski.github.io/hooks_-_making_a_timer_lifecycle_methods
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## Installation
 git clone git@github.com:codeski/react-timers-blogs.git
 cd react-timers-blogs
