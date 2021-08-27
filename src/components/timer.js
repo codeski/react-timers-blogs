@@ -34,7 +34,7 @@ class Timer extends React.Component {
     //    console.log('componentDidMount', this.state.timer)
        // access to this. & .setState
        // good for using fetch
-       // this.makeTimer() // if invoked before the user receives the UI
+       this.makeTimer() // if invoked before the user receives the UI
            // user would see a '1'
        this.interval =  setInterval(this.makeTimer, 1000)
        console.log('componentDidMount', this.state.timer)
